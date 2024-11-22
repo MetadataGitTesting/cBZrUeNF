@@ -1,6 +1,6 @@
 name: cami.kub
 description: product
-version: 2.5.880
+version: 0.6.1.312
 author: null
 language: scala
 buildSystem: ''
